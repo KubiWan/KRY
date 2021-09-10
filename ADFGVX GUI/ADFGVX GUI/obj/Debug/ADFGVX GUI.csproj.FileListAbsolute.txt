@@ -1,0 +1,20 @@
+C:\Users\CZ91224\source\repos\ADFGVX GUI\ADFGVX GUI\obj\Debug\ADFGVX GUI.csprojAssemblyReference.cache
+C:\Users\CZ91224\source\repos\ADFGVX GUI\ADFGVX GUI\obj\Debug\ADFGVX_GUI.Form1.resources
+C:\Users\CZ91224\source\repos\ADFGVX GUI\ADFGVX GUI\obj\Debug\ADFGVX_GUI.Properties.Resources.resources
+C:\Users\CZ91224\source\repos\ADFGVX GUI\ADFGVX GUI\obj\Debug\ADFGVX GUI.csproj.GenerateResource.cache
+C:\Users\CZ91224\source\repos\ADFGVX GUI\ADFGVX GUI\obj\Debug\ADFGVX GUI.csproj.CoreCompileInputs.cache
+C:\Users\CZ91224\source\repos\ADFGVX GUI\ADFGVX GUI\bin\Debug\ADFGVX GUI.exe.config
+C:\Users\CZ91224\source\repos\ADFGVX GUI\ADFGVX GUI\bin\Debug\ADFGVX GUI.exe
+C:\Users\CZ91224\source\repos\ADFGVX GUI\ADFGVX GUI\bin\Debug\ADFGVX GUI.pdb
+C:\Users\CZ91224\source\repos\ADFGVX GUI\ADFGVX GUI\obj\Debug\ADFGVX GUI.exe
+C:\Users\CZ91224\source\repos\ADFGVX GUI\ADFGVX GUI\obj\Debug\ADFGVX GUI.pdb
+D:\Úkoly KRY\ADFGVX GUI\ADFGVX GUI\bin\Debug\ADFGVX GUI.exe.config
+D:\Úkoly KRY\ADFGVX GUI\ADFGVX GUI\bin\Debug\ADFGVX GUI.exe
+D:\Úkoly KRY\ADFGVX GUI\ADFGVX GUI\bin\Debug\ADFGVX GUI.pdb
+D:\Úkoly KRY\ADFGVX GUI\ADFGVX GUI\obj\Debug\ADFGVX GUI.csprojAssemblyReference.cache
+D:\Úkoly KRY\ADFGVX GUI\ADFGVX GUI\obj\Debug\ADFGVX_GUI.Form1.resources
+D:\Úkoly KRY\ADFGVX GUI\ADFGVX GUI\obj\Debug\ADFGVX_GUI.Properties.Resources.resources
+D:\Úkoly KRY\ADFGVX GUI\ADFGVX GUI\obj\Debug\ADFGVX GUI.csproj.GenerateResource.cache
+D:\Úkoly KRY\ADFGVX GUI\ADFGVX GUI\obj\Debug\ADFGVX GUI.csproj.CoreCompileInputs.cache
+D:\Úkoly KRY\ADFGVX GUI\ADFGVX GUI\obj\Debug\ADFGVX GUI.exe
+D:\Úkoly KRY\ADFGVX GUI\ADFGVX GUI\obj\Debug\ADFGVX GUI.pdb
